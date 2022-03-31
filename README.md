@@ -8,7 +8,7 @@ It works by reading the images in a folder that are labelled from 1 onwards (eg:
 
 There is a more comprehensive walkthrough in the files
 
-Download the ready to go zip file from [HERE](https://github.com/MxFox555/Images_To_TTS/releases/download/Release/Release.zip) to get started.
+Download the ready to go zip file from [HERE](https://github.com/MxFox555/Images_To_TTS/releases/download/Release/Release.zip). Compiled with PyInstaller.
 
 ## What it needs
 Everything it needs is inside. It uses the Tesseract OCR letter recognition application and the python ttsx3 module
