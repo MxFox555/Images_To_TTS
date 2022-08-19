@@ -2,7 +2,6 @@
 # Image to TTS Converter
 
 This application was designed to take images of text and convert them to a Text To Speech (TTS) audiobook.
-I made this because I cannot be bothered to actually do the readings for my university classes.
 
 It works by reading the images in a folder that are labelled from 1 onwards (eg: 1.png, 2.png. 3.png...) and create a TTS mp3 file in the same directory
 
